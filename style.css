@@ -1,0 +1,12 @@
+#card1{
+background-color: darkolivegreen;
+width: 300px;
+height: 550px;
+text-align: center;
+margin: auto;
+}
+.btn1{
+    background-color: black;
+    color: aliceblue;
+    border: 10%;
+}
